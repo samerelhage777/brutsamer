@@ -19,7 +19,7 @@ BRUTSAMER is a comprehensive web vulnerability scanner designed to detect variou
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/brutsamer.git
+git clone https://github.com/samerelhage777/brutsamer.git
 cd brutsamer
 Install dependencies:
 
