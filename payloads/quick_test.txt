@@ -1,0 +1,11 @@
+test123
+'"
+<test>test</test>
+${test}
+{{test}}
+<script>alert(1)</script>
+' OR '1'='1
+; whoami
+../../../etc/passwd
+http://127.0.0.1:22
+{{7*7}}

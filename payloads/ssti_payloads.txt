@@ -1,0 +1,12 @@
+{{7*7}}
+${7*7}
+<%= 7*7 %>
+#{7*7}
+*{7*7}
+${{\x22test\x22.upper()}}
+{{''.__class__}}
+${''.class}
+{{().__class__.__base__.__subclasses__()}}
+{{config}}
+{{settings.SECRET_KEY}}
+{{''.__class__.__mro__[1].__subclasses__()}}

